@@ -1,8 +1,7 @@
-# React + Vite
+# Travel Buddy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-powered web application designed to automate and personalize the process of holiday planning. The goal was to help users — solo travelers, families, or groups — generate optimized travel itineraries based on their preferences, while offering reliable hotel/transport suggestions, interactive maps, and essential travel guidance.
 
-Currently, two official plugins are available:
+It addresses the common hassle of manually searching, planning, and organizing travel details by using Gemini’s AI capabilities combined with real-time data from Google APIs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
